@@ -1,0 +1,28 @@
+{
+  "name": "rajan-shrestha-p2",
+  "version": "1.0.0",
+  "description": "Project 2 React App",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-dynamic-import-webpack": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itdev161/rajan-shrestha-p2.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Rajan Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itdev161/rajan-shrestha-p2/issues"
+  },
+  "homepage": "https://github.com/itdev161/rajan-shrestha-p2#readme"
+}
